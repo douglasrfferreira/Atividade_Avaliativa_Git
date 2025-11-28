@@ -28,6 +28,9 @@ Parte 1: funcaoSoma
 
 Parte 2: funcaoMedia
 
+🟦 Revisão e teste do código
+Após o envio da ultima parte, executei o git pull origin main, revisei e testei o código
+
 📌 Contribuições — Jean Guilherme 
 
 clonei o repositorio com minha chave ssh
