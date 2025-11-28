@@ -28,3 +28,12 @@ Parte 1: funcaoSoma
 
 Parte 2: funcaoMedia
 
+📌 Contribuições — Jean Guilherme 
+
+clonei o repositorio com minha chave ssh
+
+no terminal dentro da pastaa do repositorio executei git pull origin main
+
+implementei as duas funções que faltava 
+
+subi os arquivos via terminal e comitei
